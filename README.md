@@ -10,6 +10,6 @@
 
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/silentfortin/highlights)
 
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/silentfortin/highlights)
-
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/silentfortin/archtype)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/silentfortin/quirk)
