@@ -6,9 +6,14 @@ I’m a Machine Learning Engineer from Turin, Italy, focused on **computer visio
 
 ## GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentfortin&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentfortin&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=silentfortin&theme=tokyonight)](https://git.io/streak-stats)
+## GitHub Overview
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=silentfortin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentfortin&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentfortin&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
