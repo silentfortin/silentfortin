@@ -4,16 +4,9 @@ I’m a Machine Learning Engineer from Turin, Italy, focused on **computer visio
 
 ---
 
-## GitHub Overview
+## Tech Snapshot
 
-## GitHub Overview
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=silentfortin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentfortin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentfortin&layout=compact&theme=tokyonight&hide_border=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=silentfortin&color=blueviolet&style=flat-square)
 
 ---
 
