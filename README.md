@@ -1,6 +1,6 @@
 # Hi👋
 
-I’m a Machine Learning Engineer from Turin, Italy, focused on **computer vision**, deep learning and high‑quality software delivery.
+I’m an AI enthusiast from Turin, Italy, exploring LLM‑based agents, social simulations, and machine learning.
 
 ---
 
