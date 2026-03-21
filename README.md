@@ -23,13 +23,12 @@ I’m an AI enthusiast from Turin, Italy, exploring LLM‑based agents, social s
 
 ## What I’m into
 
-- Building ML systems end‑to‑end: data, training, deployment, monitoring.  
-- Computer vision projects (classification, detection, segmentation).  
-- Clean, maintainable code and solid engineering practices.
+- Using LLM‑based agents to simulate and analyze social interactions.  
+- Machine learning and deep learning for NLP, generative AI, and social simulations.  
+- Building reliable ML pipelines, from data and training to evaluation and deployment..
 
 ---
 
 ## Get in touch
 
-- LinkedIn: [your‑linkedin‑here]  
-- Email: [your.email@domain.com]
+- LinkedIn: [www.linkedin.com/in/fortunato-cogliandro-66958618b]  
