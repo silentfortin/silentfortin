@@ -31,5 +31,5 @@ I’m an AI enthusiast from Turin, Italy, exploring LLM‑based agents, social s
 
 ## Get in touch
 
-- LinkedIn: [linkedin.com/in/fortunato-cogliandro-66958618b/](https://www.linkedin.com/in/fortunato-cogliandro-66958618b/)
+- [LinkedIn:](https://www.linkedin.com/in/fortunato-cogliandro-66958618b/)
   
